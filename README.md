@@ -115,8 +115,10 @@ int main(int argc, char* argv[]) {
 
 
 ## OUTPUT
+```
 $ ./sem.o 
 $ ipcs
+```
 ![image](https://github.com/user-attachments/assets/443e0d5f-5f21-41cd-a94d-6c1189fc3ad0)
 
 
